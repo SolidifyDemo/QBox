@@ -86,7 +86,7 @@ namespace QBox.Web.UITests
         [TestCategory("UI")]
         public void IELoginUserAndSelectNewQuiz()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
 
         [TestMethod]
